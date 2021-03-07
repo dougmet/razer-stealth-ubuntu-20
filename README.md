@@ -44,4 +44,7 @@ Quit out and run
 sudo update-grub
 ```
 
+## Trackpad
+
+I don't think this is a Rzer thing but I'm used to Windows/Mac trackpad features such as two-finger right-click. For this I install `Gnome Tweaks` and use that to set it all up.
 
